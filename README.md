@@ -2,6 +2,9 @@
 
 GYMBTI 콘텐츠를 기획부터 제작 프롬프트까지 관리하는 독립형 콘텐츠 운영 시스템입니다.
 
+- Live: https://gymbti-production-os.netlify.app
+- Source: https://github.com/bizuhoon/gymbti-production-os
+
 ## What it includes
 
 - 93개 에피소드 포트폴리오와 상태 추적
