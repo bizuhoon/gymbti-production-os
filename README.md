@@ -1,9 +1,10 @@
 # GYMBTI Production OS
 
-GYMBTI 콘텐츠를 기획부터 제작 프롬프트까지 관리하는 독립형 콘텐츠 운영 시스템입니다.
+Uhoon 콘텐츠 스튜디오 산하 GYMBTI의 공개용 파생 운영 패키지입니다. GYMBTI 콘텐츠를 기획부터 제작 프롬프트까지 탐색하지만, IP·캐릭터·에피소드·원본 자산의 쓰기 정본은 아닙니다.
 
 - Live: https://gymbti-production-os.netlify.app
 - Source: https://github.com/bizuhoon/gymbti-production-os
+- Canonical content source: local `uhoon-mbti-webtoon`
 
 ## What it includes
 
@@ -12,6 +13,7 @@ GYMBTI 콘텐츠를 기획부터 제작 프롬프트까지 관리하는 독립�
 - Scene별 Flow 이미지 및 Grok 영상 프롬프트
 - Instagram, YouTube Shorts, TikTok, Naver Clip 게시 문구
 - 16개 MBTI 캐릭터 정본 에셋
+- 정본 Special 에피소드 공개 동기화 (`SPECIAL-ISFP-01`, 4 Scene)
 
 ## Production flow
 
